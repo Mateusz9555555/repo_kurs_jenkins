@@ -1,2 +1,4 @@
 ryzen
 intel
+gtx
+rtx
