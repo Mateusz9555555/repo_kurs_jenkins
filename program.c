@@ -1,7 +1,9 @@
 #include <stdio.h>
 
 int main() {
-    printf("hello world")
+    int x = 15;
+    printf("hello world\n")
+    printf("ile ma x ")
 
     return 0;
 }
